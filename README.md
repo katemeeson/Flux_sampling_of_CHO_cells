@@ -5,13 +5,13 @@ Flux Sampling Suggests Metabolic Signatures of High Antibody-Producing CHO Cells
 
 ### **Corresponding Author:** Kate Meeson: kate.meeson@manchester.ac.uk
 ## **Table of contents** ##
-1. src
-- Contains code to integrate transcriptomics data with GEM and perform flux sampling.
-2. figures
-- Contains code to generate figures from publication.
-3. README.md
-4. requirements.txt
-5. RStudio_supplementary.txt
+#### **1. src**
+Contains code to integrate transcriptomics data with GEM and perform flux sampling.
+#### **2. figures** ####
+Contains code to generate figures from publication.
+#### **3. README.md** ####
+#### **4. requirements.txt** ####
+#### **5. RStudio_supplementary.txt** ####
 ## **Repository layout** ##
 ```
 ├── src/                                                 # Folder containing source code for flux sampling and CBM construction
